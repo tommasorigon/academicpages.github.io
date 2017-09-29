@@ -148,7 +148,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
