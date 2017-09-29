@@ -15,7 +15,7 @@ var addressPoints = [
     9.250907
   ],
   [
-    "Caglari, italy",
+    "Cagliari, italy",
     39.2149029,
     9.1094988  ]
 ];

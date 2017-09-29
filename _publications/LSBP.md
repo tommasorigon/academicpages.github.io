@@ -1,7 +1,7 @@
 ---
 title: "Logit stick-breaking priors for Bayesian density regression"
 collection: publications
-permalink: /publication/LSBP
+permalink: /publications/LSBP
 excerpt:  # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-01-11
 venue: 'ArXiv:1701.02969'

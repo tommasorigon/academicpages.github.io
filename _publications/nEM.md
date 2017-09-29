@@ -1,7 +1,7 @@
 ---
 title: "A nested expectation-maximization algorithm for latent class models with covariates"
 collection: publications
-permalink: /publication/nEM
+permalink: /publications/nEM
 excerpt:  # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-06-01
 venue: 'ArXiv:1705.03864'
