@@ -5,6 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Publication 1
-2. Publication 2
-3. Publication 3
+1. [a](nEM)
+2. [b](LSBP)
+3. [c](India-SequentiaLogit)
