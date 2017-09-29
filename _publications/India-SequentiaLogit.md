@@ -2,7 +2,7 @@
 title: "Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions"
 collection: publications
 permalink: /publication/India-SequentiaLogit
-excerpt: banana # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt:  # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-06-01
 venue: 'ArXiv:1405.7555'
 paperurl: 'https://arxiv.org/abs/1405.7555'
