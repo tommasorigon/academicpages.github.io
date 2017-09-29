@@ -81,8 +81,8 @@ author:
   name             : "Tommaso Rigon"
   avatar           : "profile.png"
   bio              : "PhD student, Data scientist"
-  location         : "Milan, Italy"
-  employer         : "Bocconi University"
+  location         : # "Milan, Italy"
+  employer         : "Bocconi University, Milan, Italy"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "tommaso.rigon@gmail.com"
   uri              :
@@ -169,9 +169,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -192,7 +189,7 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -200,15 +197,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -216,8 +204,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -225,7 +213,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
