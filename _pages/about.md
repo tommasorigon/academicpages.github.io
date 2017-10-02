@@ -38,9 +38,9 @@ redirect_from:
 ## Affiliations and editorial activity
   
   * Affiliations:
-      * International Society for Bayesian Analysis (ISBA),
-      * Società Italiana di Statistica (SIS),
-      * Elected member of the board (2016) of the young section of the Italian Statistical Society.
+      * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
+      * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
+      * Elected member of the board (2016) of the [young Section of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for:
       * Bayesian Analysis
