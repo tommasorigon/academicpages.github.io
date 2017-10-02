@@ -10,28 +10,39 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Statistical Sciences**, *Bocconi University*. I am currently a Ph.D. student under the joint supervision of prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/) and prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/). My research interests are:
+* **Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/) and prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/). My research interests include:
     * Applied Bayesian modeling
     * Bayesian nonparametrics
     * Computational statistics
-* **M.S. in Statistical Sciences**, *Università degli studi di Padova*. [Thesis](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf) supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
-* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*. [Thesis](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
+* **M.S. in Statistical Sciences**, *Università degli studi di Padova*, Padua, Italy. [Thesis](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf) supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
+* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*, Padua, Italy. [Thesis](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
 
 ## Professional experience
 
 * **[Sep  2014 - Nov  2014] Intern in Computational SEM**, *Groupon*, Dublin, Ireland. I worked in the development of projects concerning:
-    * Search Engine Marketing (SEM)
-    * Landing Page Optimization (LPO)
+    * **S**earch **E**ngine **M**arketing (SEM)
+    * **L**anding **P**age **O**ptimization (LPO)
 
-* **[10 / 2013 -- 07 / 2014] Customer Satisfaction Analyst**, *Bravofly Rumbo Group*, Chiasso, Switzerland. Business analyst with a part-time contract. I improved existing reports implementing statistical analysis and A/B testing procedures.
+* **[Oct  2013 - Jul  2014] Customer Satisfaction Analyst**, *Bravofly Rumbo Group*, Chiasso, Switzerland. Business analyst with a part-time contract. I improved existing reports implementing statistical analysis and A/B testing procedures.
 
-* [May 2013 - Oct. 2013] **Internship**, *Bravofly Rumbo Group*, Chiasso, Switzerland. During the internship, I followed two distinct projects:
+* **[May 2013 - Oct. 2013] Internship**, *Bravofly Rumbo Group*, Chiasso, Switzerland. During the internship, I followed two distinct projects:
     * Customer satisfaction analysis
     * Attribution modeling for web analytics
 
   ##  Teaching
   
-  ## Affiliations and memberships
+* **[Sep 2016 - Sep 2017] Teaching Assistant**, *Bocconi University*, Milan, Italy. I helped in the teaching activity of the master courses "Data analysis" and "Statistics for Economic and Business", taught in Bocconi, proposing and solving exercises.
+*  **[Oct 2014 - Sep 2015] Academic Tutor**, *Università degli studi di Padova*, Padua, Italy. I helped new students to get started in my faculty. I managed study groups proposing and solving exercises, advising them about academic curricula and learning method.
   
-  ## Outreach
+  ## Affiliations and editorial activity
+  
+  * Affiliations:
+      * International Society for Bayesian Analysis (ISBA),
+      * Società Italiana di Statistica (SIS),
+      * Elected member of the board (2016) of the young section of the Italian Statistical Society.
+  
+  * Referee for:
+      * Bayesian Analysis
+      * Statistical Methods & Applications
+  
