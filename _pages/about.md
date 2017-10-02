@@ -30,12 +30,12 @@ redirect_from:
     * Customer satisfaction analysis
     * Attribution modeling for web analytics
 
-  ##  Teaching
+##  Teaching
   
 * **[Sep 2016 - Sep 2017] Teaching Assistant**, *Bocconi University*, Milan, Italy. I helped in the teaching activity of the master courses "Data analysis" and "Statistics for Economic and Business", taught in Bocconi, proposing and solving exercises.
 *  **[Oct 2014 - Sep 2015] Academic Tutor**, *Università degli studi di Padova*, Padua, Italy. I helped new students to get started in my faculty. I managed study groups proposing and solving exercises, advising them about academic curricula and learning method.
-  
-  ## Affiliations and editorial activity
+
+## Affiliations and editorial activity
   
   * Affiliations:
       * International Society for Bayesian Analysis (ISBA),
