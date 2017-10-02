@@ -17,7 +17,7 @@ Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in 
     * Bayesian nonparametrics
     * Computational statistics
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
-* **[[2010 - 2013] B.S. in Statistics, Economics & Finance]((http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) )**, *Università degli studi di Padova*, Padua, Italy. Thesissupervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
+* **[[2010 - 2013] B.S. in Statistics, Economics & Finance]((http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) )**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
 
 ## Professional experience
