@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. On this site you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/) (code, notebook, tutorials, etc.).
+Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/) (code, notebook, tutorials, etc.).
 
 ## Education
 
@@ -42,7 +42,7 @@ Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in 
   * Affiliations:
       * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
       * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
-      * Elected member of the board (2016) of the [young Section of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
+      * Elected member of the board (2016) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for:
       * Bayesian Analysis
