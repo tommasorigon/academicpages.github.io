@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
+# Education
+
+### **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*.
+
+### M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
-======
+# Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -25,3 +25,5 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+  ##  Teaching
