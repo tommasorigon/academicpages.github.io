@@ -10,13 +10,14 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Statistical Sciences**, *Bocconi University*. I am currently a Ph.D. student. My research interests includes:
-    *Applied Bayesian modeling
+* **Ph.D. in Statistical Sciences**, *Bocconi University*. I am currently a Ph.D. student under the supervision of prof Igor Pruenster and Antonio Lijoi. My research interests includes:
+    * Applied Bayesian modeling
     * Bayesian nonparametrics
     * Computational statistics (Optimization, variational Inference, MCMC methods)
-* **M.S. in Statistical Sciences**, *Università degli studi di Padova*. Thesis supervisor: prof. Bruno Scarpa. Final mark: 110/110 with summa cum laude.
-* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*. Thesis supervisor: prof. Nicola Sartori. Final Mark: 110/110 with summa cum laude.
+* **M.S. in Statistical Sciences**, *Università degli studi di Padova*. [Thesis](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf) supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
+* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*. [Thesis](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
+---------------------------------------------------------------
 
 ## Professional experience
 
