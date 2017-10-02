@@ -8,22 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-# Education
+## Education
 
-### **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*.
+* **Ph.D. in Statistical Sciences**, *Bocconi University*. I am currently a Ph.D. student. My research interests includes:
+    *Applied Bayesian modeling
+    * Bayesian nonparametrics
+    * Computational statistics (Optimization, variational Inference, MCMC methods)
+* **M.S. in Statistical Sciences**, *Università degli studi di Padova*. Thesis supervisor: prof. Bruno Scarpa. Final mark: 110/110 with summa cum laude.
+* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*. Thesis supervisor: prof. Nicola Sartori. Final Mark: 110/110 with summa cum laude.
 
-### M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-# Work experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Professional experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* **Intern in Computational SEM**, *Groupon*, Dublin, Ireland. I worked in the development of projects concerning:
+    * Search Engine Marketing (SEM)
+    * Landing Page Optimization (LPO)
+
+* **Customer Satisfaction Analyst**, *Bravofly Rumbo Group*, Chiasso, Switzerland. Business analyst with a part-time contract. I improved existing reports implementing statistical analysis and A/B testing procedures.
+
+* **Internship**, *Bravofly Rumbo Group*, Chiasso, Switzerland. During the internship, I followed two distinct projects:
+    * Customer satisfaction analysis
+    * Attribution modeling for web analytics
+
   ##  Teaching
+  
+  ## Affiliations and memberships
+  
+  ## Outreach
