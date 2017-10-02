@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/) (code, notebook, tutorials, etc.).
+Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/) (code, notebook, tutorials, slides, etc.).
+
+I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
 
 ## Education
 
