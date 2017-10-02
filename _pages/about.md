@@ -14,8 +14,8 @@ redirect_from:
     * Applied Bayesian modeling
     * Bayesian nonparametrics
     * Computational statistics
-* **M.S. in Statistical Sciences**, *Università degli studi di Padova*, Padua, Italy. [Thesis](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf) supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
-* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*, Padua, Italy. [Thesis](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
+* **M.S. in Statistical Sciences**, *Università degli studi di Padova*, Padua, Italy. [Thesis (in italian)](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf) supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
+* **B.S. in Statistics, Economics & Finance**, *Università degli studi di Padova*, Padua, Italy. [Thesis (in italian)](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf) supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
 
 ## Professional experience
