@@ -14,7 +14,7 @@ I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google sc
 
 ## Education
 
-* **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/) and prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/). My research interests include:
+* **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/). My research interests include:
     * Applied Bayesian modeling
     * Bayesian nonparametrics
     * Computational statistics
