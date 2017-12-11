@@ -1,2 +1,26 @@
 _site/
 
+.DS_Store
+*.aux
+files/moderncv.cls
+files/moderncvcolorblack.sty
+files/moderncvcolorgreen.sty
+files/moderncvcolorgrey.sty
+files/moderncvcolororange.sty
+files/moderncvcolorpurple.sty
+files/moderncvcolorblue.sty
+files/cv_Rigon.out
+files/cv_Rigon.log
+files/cv_Rigon.synctex.gz
+files/cv_Rigon.tex
+files/moderncvcolorred.sty
+files/moderncv.log
+files/moderncvcompatibility.sty
+files/moderncvstylebanking.sty
+files/moderncvstylecasual.sty
+files/moderncvstyleclassic.sty
+files/moderncvstyleempty.sty
+files/moderncvstyleoldstyle.sty
+files/tweaklist.sty
+_posts/2017-10-02-logistic.html
+_posts/2017-10-02-logistic.utf8.md
