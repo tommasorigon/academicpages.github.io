@@ -6,7 +6,7 @@ excerpt:  # 'This paper is about the number 1. The number 2 is left for future w
 date: 2017-06-01
 venue: 'ArXiv:1711.06999'
 paperurl: 'https://arxiv.org/abs/1711.06999'
-citation: 'Durante, D. and Rigon, T. (2016).  &quot;A note on quadratic approximations of logistic log-likelihoods.&quot; <i>ArXiv:1711.06999</i>.'
+citation: 'Durante, D. and Rigon, T. (2017).  &quot;A note on quadratic approximations of logistic log-likelihoods.&quot; <i>ArXiv:1711.06999</i>.'
 ---
 
 
