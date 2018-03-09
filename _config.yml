@@ -243,6 +243,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+font-awesome:
+    assets: true
 
 # Archives
 #  Type
