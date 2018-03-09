@@ -17,14 +17,14 @@ My research interests include:
 
 I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
 
-## Education a <i class="fa fa-github"></i>
+## <i class="fa fa-graduation-cap"></i> Education
 
 * **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
 * **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
 
-## Professional experience
+## <i class="fa fa-industry"></i> Professional experience
 
 * **[Sep  2014 - Nov  2014] Intern in Computational SEM**, *Groupon*, Dublin, Ireland. I worked in the development of projects concerning:
     * **S**earch **E**ngine **M**arketing (SEM)
@@ -36,12 +36,12 @@ I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google sc
     * Customer satisfaction analysis
     * Attribution modeling for web analytics
 
-##  Teaching experience
+## <i class="fa fa-book"></i> Teaching experience
   
 * **[Sep 2016 - Sep 2017] Teaching Assistant**, *Bocconi University*, Milan, Italy. I helped in the teaching activity of the master courses "Data analysis" and "Statistics for Economic and Business", taught in Bocconi, proposing and solving exercises.
 *  **[Oct 2014 - Sep 2015] Academic Tutor**, *Università degli studi di Padova*, Padua, Italy. I helped new students to get started in my faculty. I managed study groups proposing and solving exercises, advising them about academic curricula and learning method.
 
-## Affiliations and editorial activity
+## <i class="fa fa-globe"></i> Affiliations and editorial activity
   
   * Affiliations:
       * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)

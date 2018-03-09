@@ -13,6 +13,9 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  @include breakpoint($large) {
+    @include span(2 of 12);
+  }
 
 
   @include breakpoint($x-large) {
