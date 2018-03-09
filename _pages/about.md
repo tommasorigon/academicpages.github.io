@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+<img width="800" height="600" src="img/Psplines.jpeg">
+</p>
 
 Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
 
