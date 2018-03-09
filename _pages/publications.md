@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ## List of publications
---------------------------------
 
 1. Durante, D. and **Rigon**, T. (2017). *[A note on quadratic approximations of logistic log-likelihoods](noteLogit)*, arXiv:1711.06999
 2. Durante, D., Canale, A. and **Rigon**, T. (2017).  *[A nested expectation-maximization algorithm for latent class models with covariates](nEM)*, arXiv:1705.03864.
