@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/) (code, notebook, tutorials, slides, etc.).
+Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
+
+My research interests include:
+* Applied Bayesian modeling
+* Bayesian nonparametrics
+* Computational statistics
 
 I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
 
 ## Education
 
-* **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/). My research interests include:
-    * Applied Bayesian modeling
-    * Bayesian nonparametrics
-    * Computational statistics
+* **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
 * **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
 
