@@ -17,7 +17,7 @@ My research interests include:
 
 I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
 
-## Education <i class="fa fa-github"></i>
+## Education a <i class="fa fa-github"></i>
 
 * **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
