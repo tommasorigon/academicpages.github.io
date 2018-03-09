@@ -15,11 +15,7 @@ My research interests include:
 * Bayesian nonparametrics
 * Computational statistics
 
-I have also a [GitHub](https://github.com/tommasorigon) profile and a [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
-
-<p align="center">
-<img width="800" height="600" src="images/Psplines.jpeg">
-</p>
+I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account.
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
