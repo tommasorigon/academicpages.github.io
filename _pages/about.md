@@ -46,6 +46,7 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
   * Affiliations:
       * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
       * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
+      * Member of the [**A**merican **S**tatistical **A**ssociation](http://www.amstat.org)(ASA)
       * Elected member of the board (2016) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for:
