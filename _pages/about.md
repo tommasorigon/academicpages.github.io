@@ -20,8 +20,8 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
 ## <i class="fa fa-graduation-cap"></i> Education
 
 * **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
-* **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with summa cum laude.
-* **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with summa cum laude.
+* **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with laude.
+* **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final Mark: 110/110 with laude.
 
 
 ## <i class="fa fa-industry"></i> Professional experience
