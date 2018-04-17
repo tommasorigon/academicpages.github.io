@@ -20,5 +20,6 @@ author_profile: true
 
 ### Events and summer schools
 1. 2017-07. [Bocconi Summer School in Advanced Statistics and Probability](http://spas.lakecomoschool.org). Bocconi University. Como, Italy.
+1. 2017-06 [StartUp Research](http://www.congressi.unisi.it/startupresearch/). Certosa di Pontignano, Italy.
 1. 2017-06-30. [Bayesian nonparametric, BNP 2017](https://www.ceremade.dauphine.fr/~salomond/BNP11/). CEREMADE, Université Paris Dauphine. Paris, France.
 
