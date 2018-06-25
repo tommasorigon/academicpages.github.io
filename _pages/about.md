@@ -51,5 +51,6 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
   
   * Referee for:
       * Bayesian Analysis
+      * Computational Statistics and Data Analysis
       * Statistical Methods & Applications
   
