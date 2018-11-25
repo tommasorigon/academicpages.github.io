@@ -15,7 +15,7 @@ author_profile: true
 1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
 
 ##  Under review
-1. Durante, D. and **Rigon, T.** (2018). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. [[ArXiv]](https://arxiv.org/abs/1711.06999).
+1. Durante, D. and **Rigon, T.** (2018). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
 
 1. **Rigon, T.** and Durante, D., (2018), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
 
