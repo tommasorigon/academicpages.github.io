@@ -12,11 +12,12 @@ author_profile: true
 ##  Conference proceedings, publications in monographs
 
 1. **Rigon, T.** (2018). Logit stick-breaking priors for partially exchangeable count data. In *Book of Short Papers SIS 2018* (Abbruzzo, A., Piacentino, D., Chiodi, M., and Brentari, E., editors). ISBN: 9788891910233.
-1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio- Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors).
+1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors).
 
 ##  Under review
+1. Durante, D. and **Rigon, T.** (2018). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. [[ArXiv]](https://arxiv.org/abs/1711.06999).
+
 1. **Rigon, T.** and Durante, D., (2018), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
 
-1. Durante, D. and **Rigon, T.** (2017). A note on quadratic approximations of logistic log-likelihoods, *arXiv:1711.06999*. [[ArXiv]](https://arxiv.org/abs/1711.06999).
 
 
