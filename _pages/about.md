@@ -20,7 +20,7 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
 
 ## <i class="fa fa-university"></i> Academic positions
 
-* **[2017 - Present] Research Affiliate**, *Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative, Fondazione "de Castro"](https://www.carloalberto.org/research/statistics-initiative/).
+* **[2017 - Present] Research Affiliate**, *Fondazione "de Castro" and Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto. 
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
