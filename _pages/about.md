@@ -17,6 +17,11 @@ My research interests include:
 
 I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
+
+## <i class="fa fa-university"></i> Academic positions
+
+* **[2017 - Present] Research Affiliate**, *Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro".
+
 ## <i class="fa fa-graduation-cap"></i> Education
 
 * **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
@@ -47,7 +52,7 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
       * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
       * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
       * Member of the [**A**merican **S**tatistical **A**ssociation](http://www.amstat.org)(ASA)
-      * Elected member of the board (2016) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
+      * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for:
       * Bayesian Analysis
