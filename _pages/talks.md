@@ -7,6 +7,7 @@ author_profile: true
 ## List of talks and conferences
 
 ### Invited speaker
+1. 2018-12-15  [CMS Statistics 2018 (ERCIM 2018)](http://cmstatistics.org/CMStatistics2018/). Pisa, Italy.
 1. 2018-08-02. [JSM 2018: Joint Statistical Meetings](http://ww2.amstat.org/meetings/jsm/2018/). University of British Columbia. Vancouver, Canada.
 1. 2018-06-20. [SIS 2018: 49th Scientific meeting of the Italian Statistical Society](http://meetings3.sis-statistica.org/index.php/sis2018/sis2018). University of Palermo. Palermo, Italy.
 1. 2017-12-27. [IISA 2017 Annual Conference](https://www.intindstat.org/iisaconference2017/). Novotel Convention Center. Hyderabad, India.
