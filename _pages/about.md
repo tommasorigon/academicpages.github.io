@@ -2,8 +2,6 @@
 permalink: /
 title: ""
 excerpt: ""
-header:
-    overlay_image: /assets/images/Psplines.jpg
 author_profile: true
 redirect_from:
   - /about/
