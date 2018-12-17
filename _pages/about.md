@@ -1,10 +1,9 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: ""
 header:
-    overlay_image: /assets/images/Psplines.jpeg
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    overlay_image: /assets/images/Psplines.jpg
 author_profile: true
 redirect_from:
   - /about/
