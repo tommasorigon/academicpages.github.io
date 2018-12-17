@@ -6,7 +6,7 @@ author_profile: true
 
 
 ## Articles in refereed journals
-1. **Rigon, T.**, Durante, D. and Torelli, N. (2018+). Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions, *Journal of the Royal Statistical Society, Series A*, in press. [[Link]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12361) [[GitHub Repository]](https://github.com/tommasorigon/India-SequentiaLogit).
+1. **Rigon, T.**, Durante, D. and Torelli, N. (2019). Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions, *Journal of the Royal Statistical Society, Series A* **182**(1), 225--247. [[Link]](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12361) [[GitHub Repository]](https://github.com/tommasorigon/India-SequentiaLogit).
 1. Durante, D., Canale, A. and **Rigon, T.** (2018+).  A nested expectation-maximization algorithm for latent class models with covariates, *Statistics and Probability Letters*, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167715218303390) [[ArXiv]](https://arxiv.org/abs/1705.03864) [[GitHub Repository]](https://github.com/danieledurante/nEM).
 
 ##  Conference proceedings, publications in monographs
