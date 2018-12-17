@@ -47,13 +47,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Header
-header:
-    overlay_image: /assets/images/Psplines.jpeg
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    actions:
-        - label: "More Info"
-        url: "https://unsplash.com"
+
 
 # SEO Related
 google_site_verification :
