@@ -47,6 +47,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Header
+
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+overlay_image: /assets/images/Psplines.jpeg
+caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+actions:
+- label: "More Info"
+url: "https://unsplash.com"
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
