@@ -15,15 +15,15 @@ author_profile: true
 1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
 
 ##  Submitted and working papers
-1. Durante, D. and **Rigon, T.** (2018+). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. Submitted. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
+1. Durante, D. and **Rigon, T.** (2019+). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. Submitted. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
 
-1. **Rigon, T.** and Durante, D., (2018+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Submitted. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
+1. **Rigon, T.** and Durante, D., (2019+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Submitted. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
 
-1. Lijoi, A., Prünster, I. and **Rigon, T.** (2018+). Sampling hierarchies of discrete random structures. Submitted.
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Sampling hierarchies of discrete random structures. Submitted.
 
-1. Lijoi, A., Prünster, I. and **Rigon, T.** (2018+). Bayesian inference for finite-dimensional discrete priors. In preparation.
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Bayesian inference for finite-dimensional discrete priors. In preparation.
 
-1. **Rigon, T.**, Scarpa, B. and Barbierato, G. (2018+). An enriched functional mixture model for flight route segmentation. In preparation.
+1. **Rigon, T.**, Scarpa, B. and Barbierato, G. (2019+). An enriched functional mixture model for flight route segmentation. In preparation.
 
 
 

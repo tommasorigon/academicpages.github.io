@@ -57,6 +57,7 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
   * Referee for:
       * Bayesian Analysis
       * Computational Statistics and Data Analysis
+      * Journal of Computational and Graphical Statistics
       * Statistical Methods & Applications
       * Statistics & Probability Letters
       
