@@ -23,7 +23,7 @@ author_profile: true
 
 1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Bayesian inference for finite-dimensional discrete priors. In preparation.
 
-1. **Rigon, T.**, Scarpa, B. and Barbierato, G. (2019+). An enriched functional mixture model for flight route segmentation. In preparation.
+1. **Rigon, T.** (2019+). An enriched mixture model for functional clustering. In preparation.
 
 
 

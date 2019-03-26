@@ -55,10 +55,12 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
       * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for:
+      * Annals of Statistics
       * Bayesian Analysis
       * Computational Statistics and Data Analysis
       * Journal of Computational and Graphical Statistics
       * Statistical Methods & Applications
       * Statistics & Probability Letters
+      * Social Indicators Research
       
       
