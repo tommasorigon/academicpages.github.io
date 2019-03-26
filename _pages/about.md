@@ -15,7 +15,9 @@ My research interests include:
 * Bayesian nonparametrics
 * Computational statistics
 
-I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
+I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
+
+For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
 
 ## <i class="fa fa-university"></i> Academic positions
