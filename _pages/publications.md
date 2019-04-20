@@ -21,7 +21,9 @@ author_profile: true
 
 1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Sampling hierarchies of discrete random structures. Submitted.
 
-1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Bayesian inference for finite-dimensional discrete priors. In preparation.
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Compositions of finite-dimensional random structures and Bayesian clustering. In preparation.
+
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). On a finite-dimensional Pitman--Yor process. In preparation.
 
 1. **Rigon, T.** (2019+). An enriched mixture model for functional clustering. In preparation.
 
