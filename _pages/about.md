@@ -19,7 +19,6 @@ I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasori
 
 For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
-
 ## <i class="fa fa-university"></i> Academic positions
 
 * **[2017 - Present] Research Affiliate**, *Fondazione "de Castro" and Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto. 
@@ -29,7 +28,6 @@ For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 * **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with laude.
 * **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final mark: 110/110 with laude.
-
 
 ## <i class="fa fa-industry"></i> Professional experience
 
