@@ -53,16 +53,8 @@ For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
   * Affiliations:
       * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
       * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
-      * Member of the [**A**merican **S**tatistical **A**ssociation](http://www.amstat.org)(ASA)
       * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
-  * Referee for:
-      * Annals of Statistics
-      * Bayesian Analysis
-      * Computational Statistics and Data Analysis
-      * Journal of Computational and Graphical Statistics
-      * Statistical Methods & Applications
-      * Statistics & Probability Letters
-      * Social Indicators Research
+  * Referee for: Annals of Statistics, Bayesian Analysis, Computational Statistics and Data Analysis, Journal of Computational and Graphical Statistics, Statistical Methods & Applications, Statistics & Probability Letters, Social Indicators Research.
       
       
