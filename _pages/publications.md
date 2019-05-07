@@ -11,15 +11,15 @@ author_profile: true
 
 
 ##  Submitted and working papers
-1. Durante, D. and **Rigon, T.** (2019+). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. Submitted. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
+1. Durante, D. and **Rigon, T.** (2019+). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. Under review. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
 
-1. **Rigon, T.** and Durante, D., (2019+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Submitted. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
+1. **Rigon, T.** and Durante, D., (2019+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Under review. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
 
 1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Sampling hierarchies of discrete random structures. Submitted.
 
-1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Compositions of finite-dimensional random structures and Bayesian clustering. In preparation.
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). The Pitman--Yor multinomial process for mixture modeling. Submitted.
 
-1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). On a finite-dimensional Pitman--Yor process. In preparation.
+1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Compositions of finite-dimensional random structures and Bayesian clustering. In preparation.
 
 1. **Rigon, T.** (2019+). An enriched mixture model for functional clustering. In preparation.
 
