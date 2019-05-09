@@ -6,12 +6,14 @@ author_profile: true
 
 
 ## Articles in refereed journals
+
+1. Durante, D. and **Rigon, T.** (2019+). Conditionally conjugate mean-field variational Bayes for logistic models, *Statistical Science*. Accepted. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
+
 1. **Rigon, T.**, Durante, D. and Torelli, N. (2019). Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions, *Journal of the Royal Statistical Society, Series A* **182**(1), 225--247. [[Link]](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12361) [[GitHub Repository]](https://github.com/tommasorigon/India-SequentiaLogit).
 1. Durante, D., Canale, A. and **Rigon, T.** (2019).  A nested expectation-maximization algorithm for latent class models with covariates, *Statistics and Probability Letters* **146**, 97--103. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167715218303390)  [[GitHub Repository]](https://github.com/danieledurante/nEM).
 
 
 ##  Submitted and working papers
-1. Durante, D. and **Rigon, T.** (2019+). Conditionally conjugate mean-field variational Bayes for logistic models, *arXiv:1711.06999*. Under review. [[ArXiv]](https://arxiv.org/abs/1711.06999) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
 
 1. **Rigon, T.** and Durante, D., (2019+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Under review. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
 
