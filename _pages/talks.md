@@ -13,10 +13,12 @@ author_profile: true
 1. 2017-12-27. [IISA 2017 Annual Conference](https://www.intindstat.org/iisaconference2017/). Novotel Convention Center. Hyderabad, India.
 
 ### Contributed speaker
+1. 2019-06-25. [12th International Conference on Bayesian Nonparametrics](https://www.stats.ox.ac.uk/bnp12/). University of Oxford. Oxford, UK. 
 1. 2018-07-02. [BAYSM 2018: Bayesian Young Statisticians Meeting](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade/2018baysmconference). University of Warwick. Warwick, UK.
 1. 2018-03-07. [YES IX: Scalable Statistics: on Accuracy and Computational Complexity](https://www.eurandom.tue.nl/event/yes-ix-scalable-statistics-on-accuracy-and-computational-complexity/). Eurandom, Metaforum. Eindhoven, Netherlands.
 
 ### Poster sessions
+1. 2019-06-30. [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/). University of Warwick. Warwick, UK.
 1. 2018-06-26. [2018 ISBA World meeting](https://bayesian.org/isba2018/). University of Edinburgh. Edinburgh, UK.
 1. 2017-12-11. [O'Bayes 2017](https://sites.google.com/site/obayes2017/). University of Texas, Austin. Austin, Texas.
 1. 2017-06-10. [Bayesian Inference in Stochastic Processes, BISP 10](https://www.unibocconi.eu/wps/wcm/connect/Site/BISP10/Home). Bocconi University. Milan, Italy.
