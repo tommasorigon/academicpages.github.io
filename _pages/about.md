@@ -46,12 +46,9 @@ For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 * **[Sep 2016 - Sep 2017] Teaching Assistant**, *Bocconi University*, Milan, Italy. I helped in the teaching activity of the master courses "Data analysis" and "Statistics for Economic and Business", taught in Bocconi, proposing and solving exercises.
 *  **[Oct 2014 - Sep 2015] Academic Tutor**, *Università degli studi di Padova*, Padua, Italy. I helped new students to get started in my faculty. I managed study groups proposing and solving exercises, advising them about academic curricula and learning method.
 
-## <i class="fa fa-globe"></i> Affiliations and editorial activity
+## <i class="fa fa-globe"></i> Service to profession
   
-  * Affiliations:
-      * Member of the [**I**nternational **S**ociety for **B**ayesian **A**nalysis](https://bayesian.org) (ISBA), and member of [j-ISBA](https://j-isba.github.io)
-      * Member of [**S**ocietà **I**taliana di **S**tatistica](http://www.sis-statistica.it) (SIS)
-      * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
+  * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
   
   * Referee for: Annals of Statistics, Bayesian Analysis, Computational Statistics and Data Analysis, Journal of Computational and Graphical Statistics, Statistical Methods & Applications, Statistics & Probability Letters, Social Indicators Research.
       
