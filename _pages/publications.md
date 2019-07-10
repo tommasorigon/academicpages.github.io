@@ -21,7 +21,7 @@ author_profile: true
 
 1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). The Pitman--Yor multinomial process for mixture modeling. Submitted.
 
-1. **Rigon, T.** (2019+). An enriched mixture model for functional clustering. Submitted.
+1. **Rigon, T.** (2019+). An enriched mixture model for functional clustering. Submitted.  [[ArXiv]](https://arxiv.org/abs/1907.02493).
 
 1. Lijoi, A., Prünster, I. and **Rigon, T.** (2019+). Finite-dimensional discrete random structures and Bayesian clustering. Submitted.
 
