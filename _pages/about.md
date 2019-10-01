@@ -10,11 +10,7 @@ redirect_from:
 
 Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
 
-My research interests include:
-* Applied Bayesian modeling
-* Bayesian nonparametrics
-* Computational statistics
-* Functional data analysis
+My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
 I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
 
