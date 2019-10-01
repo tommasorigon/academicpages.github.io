@@ -22,6 +22,8 @@ For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
 ## <i class="fa fa-university"></i> Academic positions
 
+* **[2019 - Present] Research Associate**, *Department of Statistical Science, Duke University*, Durham, North Carolina, USA. I am a Research associate under the joint supervision of professors Amy Herring and David Dunson. 
+
 * **[2017 - Present] Research Affiliate**, *Fondazione "de Castro" and Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto. 
 
 ## <i class="fa fa-graduation-cap"></i> Education
