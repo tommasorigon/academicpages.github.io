@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is **Tommaso Rigon** and I am a **PhD student in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
+Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
 
 My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
@@ -18,13 +18,13 @@ For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
 ## <i class="fa fa-university"></i> Academic positions
 
-* **[2019 - Present] Research Associate**, *Department of Statistical Science, Duke University*, Durham, North Carolina, USA. I am a Research associate under the joint supervision of professors Amy Herring and David Dunson. 
+* **[2019 - Present] Research Associate**, *Department of Statistical Science, Duke University*, Durham, North Carolina, USA. I am a Research associate under the joint supervision of prof. [Amy Herring](https://stat.duke.edu/people/amy-h-herring) and prof. [David Dunson](https://stat.duke.edu/people/david-b-dunson). 
 
 * **[2017 - 2019] Research Affiliate**, *Fondazione "de Castro" and Collegio Carlo Alberto*, Turin, Italy. I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto. 
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
-* **[2015 - 2019] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. student under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
+* **[2015 - 2020] Ph.D. in Statistical Sciences**, *Bocconi University*, Milan, Italy. I am currently a Ph.D. candidate under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 * **[[2013 - 2015] M.S. in Statistical Sciences](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). Final mark: 110/110 with laude.
 * **[[2010 - 2013] B.S. in Statistics, Economics & Finance](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf)**, *Università degli studi di Padova*, Padua, Italy. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Final mark: 110/110 with laude.
 
