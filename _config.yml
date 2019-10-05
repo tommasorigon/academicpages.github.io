@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tommaso Rigon"
   avatar           : "profile.jpg"
-  bio              : "PhD student, Data scientist"
+  bio              : "Researcher in Statistics"
   location         : # "Milan, Italy"
   employer         : "Duke University"
-  googlescholar    : "https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=vRRVHqgAAAAJ"
   email            : "tommaso.rigon@gmail.com"
   uri              :
   bitbucket        :
