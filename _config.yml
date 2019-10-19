@@ -16,7 +16,7 @@ twitter_username: RigonTommaso
 #Orcid_username: https://orcid.org/0000-0002-9224-543X
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me 
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     Welcome to my website!
