@@ -3,7 +3,7 @@
   name: Bocconi University
   dates: 2015 - 2020
   qualification: Ph.D. in Statistical Sciences
-  link: unibocconi.eu/
+  link: https://www.unibocconi.eu/
   quote: >
     Bocconi University, Milan, Italy
   description: | # this will include new lines to allow paragraphs
@@ -13,6 +13,7 @@
   name: Università degli studi di Padova
   dates: 2013 - 2015
   qualification: M.S. in Statistical Sciences
+  link: https://www.unipd.it
   quote: >
     Università degli studi di Padova, Padua, Italy
   description: | # this will include new lines to allow paragraphs
@@ -22,6 +23,7 @@
   name: Università degli studi di Padova
   dates: 2010 - 2013
   qualification: B.S. in Statistics, Economics & Finance
+  link: https://www.unipd.it
   quote: >
     Università degli studi di Padova, Padua, Italy
   description: | # this will include new lines to allow paragraphs

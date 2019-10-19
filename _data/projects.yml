@@ -1,5 +1,6 @@
 - layout: left
   company: Duke University
+  link: https://www.duke.edu
   job_title: Research Associate
   dates: 2019 - present
   quote: >
@@ -9,11 +10,12 @@
 
 - layout: left
   company: Collegio Carlo Alberto
+  link: https://www.carloalberto.org
   job_title: Research Affiliate
   dates: 2017 - 2019
   quote: >
     Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
   description: >
-    I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto.
+    I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and [Collegio Carlo Alberto](https://www.carloalberto.org).
 
 
