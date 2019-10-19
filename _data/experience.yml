@@ -1,26 +1,24 @@
 - layout: left
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
-  quote: >
-   Short description of the company (optional)
+  company: Groupon
+  job_title: Intern in Computational SEM*
+  dates: September 2014 - November 2014
+ quote: >
+    Groupon, Dublin, Ireland
   description: >
-    Description of role
+    I worked in the development of projects concerning:
+    - **S**earch **E**ngine **M**arketing (SEM)
+    - **L**anding **P**age **O**ptimization (LPO)
 
 - layout: left
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
-  description: >
-    Description of role
-
-- layout: left
-  company: Company 3
+  company: Bravofly Rumbo Group
   jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
+    - title: Customer satisfaction analyst
+      dates: October 2013 - July 2013
+    - title: Intern
+      dates: May 2013 - October 2013
+ quote: >
+    Bravofly Rumbo Group, Chiasso, Switzerland
   description: >
-    Description of role
+    Business analyst with a part-time contract. I improved existing reports implementing statistical analysis and A/B testing procedures. During the internship, I followed two distinct projects:
+    - Customer satisfaction analysis
+    - Attribution modeling for web analytics
