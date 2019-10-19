@@ -17,13 +17,13 @@ linkedin_username: tommasorigon
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf) and the list of my publications.
+#Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf) and the list of my publications.
 
 My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
 #I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
 
-For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
+#For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://#foobar.com) and highlight things <mark>like this</mark>.
 
