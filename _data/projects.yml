@@ -1,17 +1,19 @@
 - layout: left
   company: Duke University
   job_title: Research Associate
-  dates: October 2019 - present
+  dates: 2019 - present
   quote: >
-    Department of Statistical Science, Duke University*, Durham, North Carolina, USA
+    Department of Statistical Science, Duke University, Durham, North Carolina, USA
   description: >
     I am a Research associate under the joint supervision of prof. [Amy Herring](https://stat.duke.edu/people/amy-h-herring) and prof. [David Dunson](https://stat.duke.edu/people/david-b-dunson).
 
 - layout: left
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
+  company: Collegio Carlo Alberto
+  job_title: Research Affiliate
+  dates: 2017 - 2019
+  quote: >
+    Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
   description: >
-    Description of role
+    I am a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and Collegio Carlo Alberto.
 
 
