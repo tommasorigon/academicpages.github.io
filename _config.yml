@@ -6,18 +6,19 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Tommaso Rigon
 title: Researcher Associate at Duke University
 email: tommaso.rigon@gmail.com
-Orcid: https://orcid.org/0000-0002-9224-543X
 
 # Social links
 github_username:  tommasorigon
 linkedin_username: tommasorigon
+
+#Orcid_username: https://orcid.org/0000-0002-9224-543X
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-#Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf) and the list of my publications.
+Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf) and the list of my publications.
 
 My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
