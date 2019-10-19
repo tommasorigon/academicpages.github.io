@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Academic Experience #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Industry Experience #(Use this to override about experience section title)
+# experience_title: Professional Experience #(Use this to override about experience section title)
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
