@@ -19,7 +19,7 @@ about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     Welcome to my website! My name is Tommaso Rigon and I am a Research Associate in Statistics at Duke University.
 
-    You can download my <mark>complete curriculum vitae</mark> at [this link](/files/cv_Rigon.pdf).
+    Here you can find my [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf)
 
     My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
