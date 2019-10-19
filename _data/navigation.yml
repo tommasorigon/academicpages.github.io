@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Conferences and Talks"
+    url: /talks/
+
+  - title: "Code, notebooks and slides"
+    url: /year-archive/
