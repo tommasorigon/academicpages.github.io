@@ -25,14 +25,6 @@ about_content: | # this will include new lines to allow paragraphs
 
     For more, you can visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://#foobar.com) and highlight things <mark>like this</mark>.
-
-#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#    - Lists
-#    - Tables
-#    - Links
-#    - Images
-
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -40,7 +32,9 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Academic Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
+education_content: | #(Use this to override about education section title)
+    Add some further content
 
 # More Section
 more_title: Publications #(Use this to override about more section title)
