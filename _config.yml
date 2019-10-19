@@ -14,8 +14,8 @@ linkedin_username: tommasorigon
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
-about_content: |
+about_profile_image: /images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
 
 Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
 
@@ -81,3 +81,4 @@ analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-107301343-1"
+
