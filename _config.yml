@@ -17,9 +17,9 @@ linkedin_username: tommasorigon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics** at Duke University.
+    Welcome to my website! My name is Tommaso Rigon and I am a Research Associate in Statistics at Duke University.
 
-    In this website you can find my [complete curriculum vitae](/files/cv_Rigon.pdf) and the list of my publications.
+    In this website you can find my <mark>[complete curriculum vitae](/files/cv_Rigon.pdf)</mark> and the list of my publications.
 
     My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
@@ -39,17 +39,16 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# experience_title: Academic Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: Service to profession Me #(Use this to override about more section title)
+more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
-
-    * Referee for: Annals of Statistics, Bayesian Analysis, Computational Statistics and Data Analysis, Electronic Journal of Statistics, European Journal of Operational Research, Journal of Computational and Graphical Statistics, Statistical Methods & Applications, Statistics & Probability Letters, Social Indicators Research.
+    - Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
+    - Referee for: Annals of Statistics, Bayesian Analysis, Computational Statistics and Data Analysis, Electronic Journal of Statistics, European Journal of Operational Research, Journal of Computational and Graphical Statistics, Statistical Methods & Applications, Statistics & Probability Letters, Social Indicators Research.
 # Footer
 footer_show_references: true
 
