@@ -17,9 +17,9 @@ linkedin_username: tommasorigon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Welcome to my website! My name is Tommaso Rigon and I am a Research Associate in Statistics at Duke University.
+    Welcome to my website!
 
-    Here you can find my [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf)
+    My name is Tommaso Rigon and I am a Research Associate in Statistics at Duke University. My [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf) is available at [this link](/files/cv_Rigon.pdf).
 
     My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
