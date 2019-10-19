@@ -1,12 +1,9 @@
 - layout: left
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
-  quote: >
-   Short description of the company (optional)
+  company: Duke University
+  job_title: Research Associate
+  dates: October 2019 - present
   description: >
-    Description of role
+    I am a Research associate under the joint supervision of prof. [Amy Herring](https://stat.duke.edu/people/amy-h-herring) and prof. [David Dunson](https://stat.duke.edu/people/david-b-dunson).
 
 - layout: left
   company: Company 2
@@ -15,12 +12,4 @@
   description: >
     Description of role
 
-- layout: left
-  company: Company 3
-  jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
-  description: >
-    Description of role
+
