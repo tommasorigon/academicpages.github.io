@@ -4,8 +4,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Tommaso Rigon
-title: Researcher in Statistics
+title: Researcher Associate at Duke University
 email: tommaso.rigon@gmail.com
+Orcid: https://orcid.org/0000-0002-9224-543X
 
 # Social links
 github_username:  tommasorigon
@@ -13,15 +14,24 @@ linkedin_username: tommasorigon
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
+
+My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
+
+I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
+
+For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
+
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://#foobar.com) and highlight things <mark>like this</mark>.
+
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - Links
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -65,3 +75,10 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+# Analytics
+analytics:
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-107301343-1"
+
