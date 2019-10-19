@@ -1,38 +1,38 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{% include base_path %}
+{%- include head.html -%}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<body>
 
-  <body>
+  {%- include header.html -%}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
 
-    {{ content }}
+      {%- include about.html -%}
 
-    </script>
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
+      {%- endif -%}
+
+      {%- if site.data.education.size > 0 -%}
+        {%- include education.html -%}
+      {%- endif -%}
+
+      {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%}
+
     </div>
+  </main>
 
-    {% include scripts.html %}
+  {%- include footer.html -%}
 
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-  </body>
-
+</body>
 
 </html>
