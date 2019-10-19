@@ -2,19 +2,4 @@
   company: Groupon
   job_title: Intern in Computational SEM
   dates: September 2014 - November 2014
-  quote: >
-    Groupon, Dublin, Ireland
- description: >
-    I worked in the development of projects concerning: **S**earch **E**ngine **M**arketing (SEM) and **L**anding **P**age **O**ptimization (LPO)
-
-- layout: left
-  company: Bravofly Rumbo Group
-  jobs:
-    - title: Customer satisfaction analyst
-      dates: October 2013 - July 2013
-    - title: Intern
-      dates: May 2013 - October 2013
-  quote: >
-	Bravofly Rumbo Group, Chiasso, Switzerland
-  description: > 
-	Business analyst with a part-time contract. I improved existing reports implementing statistical analysis and A/B testing procedures. During the internship, I followed two distinct projects: Customer satisfaction analysis and Attribution modeling for web analytics
+ 
