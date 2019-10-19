@@ -16,8 +16,8 @@ linkedin_username: tommasorigon
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
-about_content: > # this will include new lines to allow paragraphs
-Welcome to my website!
+about_content: | # this will include new lines to allow paragraphs
+# Welcome to my website.
 
 # My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**.
 
