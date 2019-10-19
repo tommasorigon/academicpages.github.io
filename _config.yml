@@ -22,9 +22,9 @@ about_content: | # this will include new lines to allow paragraphs
 
     My [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf) is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
-    Broadly speaking, I am interested in Bayesian (nonparametric) methods for the analysis of complex data. For example, during my Ph.D. I studied novel methods to approximate infinite-dimensional priors, which are flexible probabilistic tools increasingly popural in the statistical and machine learning communities. 
+    Broadly speaking, I am interested in Bayesian (nonparametric) methods for the analysis of complex data. For example, during my Ph.D. I studied novel methods to approximate infinite-dimensional priors, which are flexible probabilistic tools increasingly popural within the statistical and the machine learning communities. In a related project, I employed enriched priors to conduct functional clustering in a marketing application. I am also interested in computational aspects underlying Bayesian methods, including Markov Chain Monte Carlo and variational approaches.
 
-    Finally, note that this website contains only the essential biographical information. For more details about my teaching experience, awards, talks and several other professional activities, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
+    This website contains only the essential biographical information. For more details about my teaching experience, awards, talks and several other professional activities, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
 
 # Projects Section
 projects_title: Academic Experience
