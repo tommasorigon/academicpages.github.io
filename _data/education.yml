@@ -1,18 +1,27 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Bocconi University
+  dates: 2015 - 2020
+  qualification: Ph.D. in Statistical Sciences
   quote: >
-    Short institution or course description (optional)
+    Bocconi University, Milan, Italy
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I am currently a Ph.D. candidate under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/).
 
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Università degli studi di Padova
+  dates: 2013 - 2015
+  qualification: M.S. in Statistical Sciences
   quote: >
-    Short institution or course description (optional)
+    Università degli studi di Padova, Padua, Italy
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Final mark: 110/110 with laude. Thesis supervisor: prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). 
+
+- layout: left
+  name: Università degli studi di Padova
+  dates: 2010 - 2013
+  qualification: B.S. in Statistics, Economics & Finance
+  quote: >
+    Università degli studi di Padova, Padua, Italy
+  description: | # this will include new lines to allow paragraphs
+    Final mark: 110/110 with laude. Thesis supervisor: prof. [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). 
