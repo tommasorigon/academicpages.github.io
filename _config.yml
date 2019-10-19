@@ -15,13 +15,13 @@ linkedin_username: tommasorigon
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
 
 Welcome to my website! My name is **Tommaso Rigon** and I am a **Research Associate in Statistics**. In this website you can find my [curriculum vitae](/files/cv_Rigon.pdf), the list of my [publications](/publications/) and some [statistical material](/year-archive/), including code, notebook, tutorials, slides, etc.
 
 My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
-I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
+#I have also a [<i class="fa fa-github"></i> GitHub](https://github.com/tommasorigon) profile and a [<i class="fa fa-google"></i> Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) account. 
 
 For more, download my [curriculum vitae](/files/cv_Rigon.pdf).
 
@@ -81,4 +81,3 @@ analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-107301343-1"
-
