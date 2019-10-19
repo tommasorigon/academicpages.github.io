@@ -19,11 +19,11 @@ twitter_username: RigonTommaso
 about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am a Research Associate in Statistics at the [department of Statistical Science](https://stat.duke.edu) of [Duke University](https://www.duke.edu). My [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf) is available at [this link](/files/cv_Rigon.pdf). For more, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
+    I am a Research Associate in Statistics at the [department of Statistical Science](https://stat.duke.edu) of [Duke University](https://www.duke.edu). My [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf) is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
-    My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
+# My research interests include: applied Bayesian modeling, Bayesian clustering, Bayesian nonparametrics, computational statistics, functional data analysis.
 
-
+Finally, this website contains only the essential biographical information. For details about my teaching experience, awards, talks and other experiences, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
 
 # Projects Section
 projects_title: Academic Experience
