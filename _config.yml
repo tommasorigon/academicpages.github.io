@@ -45,12 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Service to profession Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    * Elected member of the board (2016-2018) of the [young group of the Italian Statistical Society](https://youngsis.github.io) (ySIS)
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+    * Referee for: Annals of Statistics, Bayesian Analysis, Computational Statistics and Data Analysis, Electronic Journal of Statistics, European Journal of Operational Research, Journal of Computational and Graphical Statistics, Statistical Methods & Applications, Statistics & Probability Letters, Social Indicators Research.
 # Footer
 footer_show_references: true
 
