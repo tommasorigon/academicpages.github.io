@@ -22,7 +22,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     I am interested in Bayesian methods for the analysis of complex data, covering the theoretical, applicative, and computational aspects. I try to balance these three macro-areas in my research. During my Ph.D. at [Bocconi University](https://www.unibocconi.eu/) I studied novel methods to approximate Bayesian nonparametric priors, which are flexible and increasingly popular probabilistic tools.  I also developed Bayesian models for marketing segmentation and for the analysis of fMRI data. Moreover, I am intrigued by the computational aspects of Bayesian statistics, including Markov chain Monte Carlo and variational approaches. For instance, part of my work is based on the Polya-gamma data-augmentation and its algorithmical implications.
 
-    This website contains only the essential biographical information. For more details about my teaching experience, awards, talks and several other professional activities, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
+    # This website contains only the essential biographical information. For more details about my teaching experience, awards, talks and several other professional activities, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
 
 # Projects Section
 projects_title: Academic Experience
