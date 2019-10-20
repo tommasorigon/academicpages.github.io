@@ -1,8 +1,8 @@
 <div class="container more-container">
-  <h3>{{ site.extra_title | default: "A Little More About Me" }}</h3>
+  <h3>{{ site.talks_title | default: "Talks and conferences" }}</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      {{ site.extra_content | strip | markdownify }}
+      {{ site.talks_content | strip | markdownify }}
     </div>
   </div>
 </div>
