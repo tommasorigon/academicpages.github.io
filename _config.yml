@@ -22,8 +22,6 @@ about_content: | # this will include new lines to allow paragraphs
 
     I am interested in Bayesian methods for the analysis of complex data, covering the theoretical, applicative, and computational aspects. I try to balance these three macro-areas in my research. During my Ph.D. at [Bocconi University](https://www.unibocconi.eu/) I studied novel methods to approximate Bayesian nonparametric priors, which are flexible and increasingly popular probabilistic tools.  I also developed Bayesian models for marketing segmentation and for the analysis of fMRI data. Moreover, I am intrigued by the computational aspects of Bayesian statistics, including Markov chain Monte Carlo and variational approaches. For instance, part of my work is based on the Polya-gamma data-augmentation and its algorithmical implications.
 
-    # This website contains only the essential biographical information. For more details about my teaching experience, awards, talks and several other professional activities, please download the [<mark>complete curriculum vitae</mark>](/files/cv_Rigon.pdf).
-
 # Projects Section
 projects_title: Academic Positions
 
@@ -36,6 +34,7 @@ education_title: Education
 # More Section
 talks_title: Talks and conferences
 talks_content: |
+
     **Invited speaker**
 
 	1. 2018-12-15. [CMS Statistics 2018 (ERCIM 2018)](http://cmstatistics.org/CMStatistics2018/). Pisa, Italy.
@@ -69,6 +68,7 @@ talks_content: |
 	1. 2016-06-10. International Society for Bayesian Analysis, ISBA 2016. Cagliari University. Cagliari, Italy.
 
 	**Events and summer schools**
+
 	1. 2018-06-19. [Stat under the stars 4](http://www.unipa.it/dipartimenti/seas/sus4/). Palermo, Italy.
 	
 	1. 2017-07. [Bocconi Summer School in Advanced Statistics and Probability](http://spas.lakecomoschool.org). Bocconi University. Como, Italy.
