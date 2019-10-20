@@ -112,7 +112,21 @@ more_content: |
 # More Section
 service_title: Service to profession
 service_content: |
-    Ciao
+    **Referee service (alphabetical order)**
+
+    Annals of Statistics; Bayesian Analysis; Computational Statistics & Data Analysis; Electronic Journal of Statistics; European Journal of Operational Research; Journal of Computational & Graphical Statistics; Statistical Methods & Applications; Social Indicators Research; Statistics & Probability Letters
+
+    **Positions in Academic Societies**
+
+    - Elected member of the board (2016-2018) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
+
+    **Organization of Scientific Events**
+
+    - Organizer of the ySIS session *think outside of the black-box: statistical reasoning in applications* of the [SIS2019: Smart Statistics for Smart Applications conference](http://meetings3.sis-statistica.org/index.php/SIS2019/index/schedConfs/current), Milan, Italy (06/2019)
+
+    - Member of the organising committee of Stats under the Stars 5, a hackathon for young Data Scientists, Milan, Italy (06/2019)
+
+    - Member of the local organising committee of the 10th international workshop on Bayesian inference in stochastic processes (BISP10), Milan, Italy (11/2017)
 
 # Footer
 footer_show_references: true
