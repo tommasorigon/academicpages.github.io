@@ -34,6 +34,11 @@ experience_title: Professional Experience
 education_title: Education
 
 # More Section
+test_title: Test of a novel section
+test_content: |
+    Further content
+
+# More Section
 more_title: Publications
 more_content: |
 
