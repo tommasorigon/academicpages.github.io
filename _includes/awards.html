@@ -1,0 +1,8 @@
+<div class="container more-container">
+  <h3>{{ site.awards_title | default: "Awards" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.awards_content | strip | markdownify }}
+    </div>
+  </div>
+</div>
