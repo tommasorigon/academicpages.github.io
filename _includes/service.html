@@ -1,0 +1,8 @@
+<div class="container more-container">
+  <h3>{{ site.service_title | default: "Service to profession" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.service_content | strip | markdownify }}
+    </div>
+  </div>
+</div>

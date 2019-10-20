@@ -109,6 +109,11 @@ more_content: |
 
     1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
 
+# More Section
+service_title: Service to profession
+service_content: |
+    Ciao
+
 # Footer
 footer_show_references: true
 
