@@ -4,7 +4,7 @@ repository: tommasorigon/tommasorigon.github.io
 
 # Personal info
 name: Tommaso Rigon
-title: Research Associate at Duke University
+title: Postdoctoral Associate at Duke University
 email: tommaso.rigon@gmail.com
 
 # Social links
@@ -16,7 +16,7 @@ twitter_username: RigonTommaso
 about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am a Research Associate in Statistics at the [department of Statistical Science](https://stat.duke.edu) of [Duke University](https://www.duke.edu). I currently live in [Durham](https://g.page/DukeUniv?share), a city in North Carolina, USA.
+    I am a Postdoctoral Associate in Statistics at the [department of Statistical Science](https://stat.duke.edu) of [Duke University](https://www.duke.edu). I currently live in [Durham](https://g.page/DukeUniv?share), a city in North Carolina, USA.
 
     My complete curriculum vitae is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
