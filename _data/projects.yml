@@ -1,8 +1,11 @@
 - layout: left
   company: Duke University
   link: https://www.duke.edu
-  job_title: Research / Postdoctoral Associate
-  dates: 2019 - present
+  jobs:
+    - title: Postdoctoral Associate
+      dates: February 2020 - Present
+    - title: Research Associate
+      dates: October 2019 - February 2020
   quote: >
     Department of Statistical Science, Duke University, Durham, North Carolina, USA
   description: >
