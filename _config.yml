@@ -114,6 +114,8 @@ more_content: |
 
     **Articles in refereed journals**
     
+    1. **Rigon, T.** and Durante, D., (2020+), Tractable Bayesian density regression via logit stick-breaking priors, *Journal of Statistical Planning and inference*. In press. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
+    
     1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. In press. [[Link]](https://www.carloalberto.org/wp-content/uploads/2020/01/no.599.pdf).
 
     1. Durante, D. and **Rigon, T.** (2019). Conditionally conjugate mean-field variational Bayes for logistic models, *Statistical Science* **34**(3), 472--485. [[Link]](https://projecteuclid.org/euclid.ss/1570780980) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
@@ -124,8 +126,6 @@ more_content: |
 
     **Submitted and working papers**
 
-    1. **Rigon, T.** and Durante, D., (2020+), Tractable Bayesian density regression via logit stick-breaking priors, *arXiv:1701.02969*. Revision submitted. [[ArXiv]](https://arxiv.org/abs/1701.02969) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
-
     1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020+). Sampling hierarchies of discrete random structures. Revision submitted.
 
     1. **Rigon, T.** (2020+). An enriched mixture model for functional clustering. Submitted.  [[ArXiv]](https://arxiv.org/abs/1907.02493).
@@ -135,7 +135,6 @@ more_content: |
     1. **Rigon, T.**, Scarpa, B. and Petrone, S. (2020+). Enriched Pitman-Yor processes. Submitted. [[ArXiV]](https://arxiv.org/abs/2003.12200).
 
     1. Legramanti, S., **Rigon, T.**, Durante, D. (2020+).  Bayesian testing for exogenous partition structures in stochastic block models. Submitted. 
-
 
 
     **Refereed conference proceedings, publications in monographs, discussions**
