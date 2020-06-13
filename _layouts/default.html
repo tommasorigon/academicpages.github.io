@@ -20,6 +20,14 @@
         {%- include education.html -%}
       {%- endif -%}
       
+      {%- if site.awards_content -%}
+      {%- include awards.html -%}
+      {%- endif -%}
+      
+      {%- if site.service_content -%}
+      {%- include service.html -%}
+      {%- endif -%}
+      
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
@@ -28,13 +36,7 @@
       {%- include talks.html -%}
       {%- endif -%}
       
-      {%- if site.awards_content -%}
-      {%- include awards.html -%}
-      {%- endif -%}
-      
-      {%- if site.service_content -%}
-      {%- include service.html -%}
-      {%- endif -%}
+
 
 
       
