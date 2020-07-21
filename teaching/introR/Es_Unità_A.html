@@ -446,6 +446,37 @@ summary {
 <li><p>Si supponga ora che <code>x &lt;- 1:3000</code>. Si notano differenze rispetto al punto precedente?</p></li>
 <li><p>Si confrontino le funzioni <code>var2</code> e <code>var3</code> con la funzione <code>var</code> implementata in <strong>R</strong>, utilizzando i dati del punto 3. Come mai i risultati differiscono, anche se di poco? Si consulti la documentazione per rispondere.</p></li>
 </ol>
+<pre class="r"><code># --------------------------
+# Traccia della soluzione
+# --------------------------
+
+var2 &lt;- function(x) {
+  mean((x - mean(x))^2)
+}
+
+var3 &lt;- function(x) {
+  n &lt;- length(x) # Ottengo la lunghezza del vettore x
+  D &lt;- matrix(0, nrow = n, ncol = n) # Creazione matrice vuota
+  for (i in 1:n) {
+    for (j in 1:n) {
+      D[i, j] &lt;- (x[i] - x[j])^2
+    }
+  }
+  sum(D) / (2 * n^2)
+}
+
+x &lt;- c(1, 4, 2, 2, 10)
+var2(x)</code></pre>
+<pre><code>## [1] 10.56</code></pre>
+<pre class="r"><code>var3(x)</code></pre>
+<pre><code>## [1] 10.56</code></pre>
+<pre class="r"><code>var(x)</code></pre>
+<pre><code>## [1] 13.2</code></pre>
+<pre class="r"><code>x &lt;- 1:3000
+var2(x)</code></pre>
+<pre><code>## [1] 749999.9</code></pre>
+<pre class="r"><code>var3(x) # Molto più lenta rispetto a var2(x)</code></pre>
+<pre><code>## [1] 749999.9</code></pre>
 </div>
 <div id="esercizio-4" class="section level2">
 <h2>Esercizio 4</h2>
@@ -466,7 +497,7 @@ summary {
 <div id="esercizio-6" class="section level2">
 <h2>Esercizio 6</h2>
 <p>Utilizzando i seguenti comandi, si carichino in memoria i dati <code>cars</code>.</p>
-<pre class="r"><code>#Operazione preliminare: caricamento in memoria dei dati cars.
+<pre class="r"><code># Operazione preliminare: caricamento in memoria dei dati cars.
 data(cars)
 y &lt;- cars$dist
 x &lt;- cars$speed</code></pre>
