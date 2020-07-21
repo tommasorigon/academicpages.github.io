@@ -409,9 +409,9 @@ summary {
 <p>Si scriva in <strong>R</strong> la funzione <code>f(x)</code> associata a</p>
 <p><span class="math display">\[f(x) = \frac{|\sin(\pi/4 x^2)|}{x}, \qquad x \neq 0.\]</span></p>
 <ol style="list-style-type: decimal">
-<li>Quanto vale <span class="math inline">\(f(1)\)</span>? Quanto vale <span class="math inline">\(f(10^8)\)</span>?</li>
-<li>Si approssimino <span class="math inline">\(f(1)\)</span> ed <span class="math inline">\(f(10)\)</span> alle prime due cifre decimali.</li>
-<li>Si calcoli <span class="math inline">\(\sum_{k=1}^{K} f(k)\)</span>, per <span class="math inline">\(K = 500\)</span>.</li>
+<li><p>Quanto vale <span class="math inline">\(f(1)\)</span>? Quanto vale <span class="math inline">\(f(10^8)\)</span>?</p></li>
+<li><p>Si approssimino <span class="math inline">\(f(1)\)</span> ed <span class="math inline">\(f(10)\)</span> alle prime due cifre decimali.</p></li>
+<li><p>Si calcoli <span class="math inline">\(\sum_{k=1}^{K} f(k)\)</span>, per <span class="math inline">\(K = 500\)</span>.</p></li>
 </ol>
 </div>
 <div id="esercizio-2" class="section level2">
@@ -434,10 +434,10 @@ summary {
 </div>
 <div id="esercizio-3" class="section level2">
 <h2>Esercizio 3</h2>
-<p>La varianza campionaria dei dati <span class="math inline">\({\bf x} = (x_1,\dots,x_n)\)</span> è definita come <span class="math display">\[
+<p>La varianza campionaria dei dati <span class="math inline">\({\bf x} = (x_1,\dots,x_n)\)</span> è definita come</p>
+<p><span class="math display">\[
 \text{var}({\bf x}) = \frac{1}{n}\sum_{i=1}^n(x_i - \bar{x})^2,
-\]</span></p>
-<p>dove <span class="math inline">\(\bar{x}\)</span> è la media campionaria. Si noti che <span class="math inline">\(\text{var}({\bf x})\)</span> ammette la rappresentazione alternativa</p>
+\]</span> dove <span class="math inline">\(\bar{x}\)</span> è la media campionaria. Si noti che <span class="math inline">\(\text{var}({\bf x})\)</span> ammette la rappresentazione alternativa</p>
 <p><span class="math display">\[\text{var}({\bf x}) = \frac{1}{2 n^2} \sum_{i=1}^n \sum_{j = 1}^n (x_i - x_j)^2.\]</span></p>
 <ol style="list-style-type: decimal">
 <li><p>Si scriva una funzione <code>var2(x)</code> che calcola la varianza di <span class="math inline">\({\bf x}\)</span> utilizzando la definizione. È consentito utilizzare il comando <code>mean(x)</code> disponibile in <strong>R</strong> (si veda la documentazione).</p></li>
