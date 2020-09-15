@@ -41,9 +41,9 @@ more_content: |
     
     1. **Rigon, T.** and Durante, D., (2021), Tractable Bayesian density regression via logit stick-breaking priors, *Journal of Statistical Planning and inference* **211**, 131--142. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378375818300697?dgcid=author) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
     
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing*. In press.
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing*. In press. [[Link]](https://link.springer.com/article/10.1007/s11222-020-09961-7)
     
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. In press. [[Link]](https://www.carloalberto.org/wp-content/uploads/2020/01/no.599.pdf).
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. In press. [[Link]](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaa030/5854095).
 
     1. Durante, D. and **Rigon, T.** (2019). Conditionally conjugate mean-field variational Bayes for logistic models, *Statistical Science* **34**(3), 472--485. [[Link]](https://projecteuclid.org/euclid.ss/1570780980) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
 
