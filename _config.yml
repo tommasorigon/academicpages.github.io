@@ -4,7 +4,7 @@ repository: tommasorigon/tommasorigon.github.io
 
 # Personal info
 name: Tommaso Rigon
-title: Assistant Professor at University of Milano-Bicocca
+title: Assistant Professor at University of Milano Bicocca
 email: tommaso.rigon@unimib.it
 
 # Social links
@@ -16,7 +16,7 @@ twitter_username: RigonTommaso
 about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am an Assistant Professor in Statistics at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bicocca](https://en.unimib.it). I currently live in Milan, Italy.
+    I am an Assistant Professor in Statistics at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano Bicocca](https://en.unimib.it). I currently live in Milan, Italy.
 
     My complete curriculum vitae is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
