@@ -1,15 +1,28 @@
 - layout: left
+company: University of Milano-Bicocca
+link: https://en.unimib.it
+jobs:
+  - title: Assistant Professor
+    dates: 2020 - Present
+quote: >
+  Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca, Milan, Italy
+description: >
+  I am currently an Assistant Professor at [University of Milano-Bicocca](https://en.unimib.it).
+
+
+
+- layout: left
   company: Duke University
   link: https://www.duke.edu
   jobs:
     - title: Postdoctoral Associate
-      dates: 2020 - Present
+      dates: 2020 - 2020
     - title: Research Associate
       dates: 2019 - 2020
   quote: >
     Department of Statistical Science, Duke University, Durham, North Carolina, USA
   description: >
-    I have been Research Associate at [Duke university](https://www.duke.edu) and I am currently a Postdoctoral Associate in the same institution. I work with prof. [Amy Herring](https://stat.duke.edu/people/amy-h-herring) and prof. [David Dunson](https://stat.duke.edu/people/david-b-dunson). My current research focuses on Bayesian methods for robust clustering, dimensionality reduction and biostatistical applications.
+    I have been Research Associate and Postdoctoral Associate at [Duke university](https://www.duke.edu). I worked with prof. [Amy Herring](https://stat.duke.edu/people/amy-h-herring) and prof. [David Dunson](https://stat.duke.edu/people/david-b-dunson). My research focused on Bayesian methods for robust clustering, dimensionality reduction and sequential species discovery.
 
 - layout: left
   company: Collegio Carlo Alberto

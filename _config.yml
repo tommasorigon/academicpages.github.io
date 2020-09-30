@@ -4,8 +4,8 @@ repository: tommasorigon/tommasorigon.github.io
 
 # Personal info
 name: Tommaso Rigon
-title: Postdoctoral Associate at Duke University
-email: tommaso.rigon@gmail.com
+title: Assistant Professor at University of Milano-Bicocca
+email: tommaso.rigon@unimib.it
 
 # Social links
 github_username:  tommasorigon
@@ -16,7 +16,7 @@ twitter_username: RigonTommaso
 about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am a Postdoctoral Associate in Statistics at the [department of Statistical Science](https://stat.duke.edu) of [Duke University](https://www.duke.edu). I currently live in [Durham](https://g.page/DukeUniv?share), a city in North Carolina, USA.
+    I am an Assistant Professor in Statistics at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bicocca](https://en.unimib.it). I currently live in Milan, Italy.
 
     My complete curriculum vitae is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
@@ -60,7 +60,7 @@ more_content: |
     
     1. **Rigon, T.**, Scarpa, B. and Petrone, S. (2020+). Enriched Pitman-Yor processes. Submitted. [[ArXiv]](https://arxiv.org/abs/2003.12200).
 
-    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020+).  Bayesian testing for exogenous partition structures in stochastic block models. Submitted.
+    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020+).  Bayesian testing for exogenous partition structures in stochastic block models. Submitted. [[ArXiv]](https://arxiv.org/abs/2009.12267)
     
     1. **Rigon, T.**, Herring, A. H. and Dunson, D. B. (2020+). A generalized Bayes framework for probabilistic clustering. Submitted. [[ArXiv]](https://arxiv.org/abs/2006.05451).
     
