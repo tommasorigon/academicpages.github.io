@@ -41,7 +41,9 @@ more_content: |
     
     1. **Rigon, T.** and Durante, D., (2021), Tractable Bayesian density regression via logit stick-breaking priors, *Journal of Statistical Planning and inference* **211**, 131--142. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378375818300697?dgcid=author) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
     
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing*. In press. [[Link]](https://link.springer.com/article/10.1007/s11222-020-09961-7)
+    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020+).  Bayesian testing for exogenous partition structures in stochastic block models. **Sankhya A**. In press. [[ArXiv]](https://arxiv.org/abs/2009.12267) [[GitHub repository]](https://github.com/danieledurante/TESTsbm)
+    
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing* **30**, 1591--1607. [[Link]](https://link.springer.com/article/10.1007/s11222-020-09961-7)
     
     1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. In press. [[Link]](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaa030/5854095).
 
@@ -59,8 +61,6 @@ more_content: |
     1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020+). Finite-dimensional discrete random structures and Bayesian clustering. Submitted. [[Link]](https://www.carloalberto.org/wp-content/uploads/2019/12/no.600.pdf).
     
     1. **Rigon, T.**, Scarpa, B. and Petrone, S. (2020+). Enriched Pitman-Yor processes. Submitted. [[ArXiv]](https://arxiv.org/abs/2003.12200).
-
-    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020+).  Bayesian testing for exogenous partition structures in stochastic block models. Submitted. [[ArXiv]](https://arxiv.org/abs/2009.12267) [[GitHub repository]](https://github.com/danieledurante/TESTsbm)
     
     1. **Rigon, T.**, Herring, A. H. and Dunson, D. B. (2020+). A generalized Bayes framework for probabilistic clustering. Submitted. [[ArXiv]](https://arxiv.org/abs/2006.05451).
     
