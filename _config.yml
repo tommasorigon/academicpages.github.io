@@ -24,6 +24,23 @@ about_content: | # this will include new lines to allow paragraphs
     
     [<mark>Download curriculum vitae</mark>](/files/cv_Rigon.pdf)
 
+# Teaching Section
+teaching_title: Teaching
+teaching_content: |
+
+    **Academic awards**
+
+    - Test 3
+    
+    **Data competitions**
+
+    - Test 2
+    
+    **Travel award**
+
+    - Test 1
+
+
 # Projects Section
 projects_title: Academic Positions
 
