@@ -27,12 +27,13 @@ about_content: | # this will include new lines to allow paragraphs
 # Teaching Section
 teaching_title: Teaching
 teaching_content: |
-
+    Most of the courses are paired with a website that includes the teaching material (slides, code, references, etc.). 
+    
     **B.Sc. courses**
 
-    - Test 3
+    - [Stat-1 (Italian)](https://tommasorigon.github.io/StatI/). Course on descriptive statistics (Statistica I)
 
-    - Test 2
+    - [ASM-R (Italian)](https://tommasorigon.github.io/introR/).
     
     **Thesis information (B.Sc. & M.Sc.)**
 
