@@ -12,8 +12,8 @@
 
       {%- include about.html -%}
       
-      {%- if site.data.teaching.size > 0 -%}
-        {%- include teaching.html -%}
+      {%- if site.teaching_content -%}
+      {%- include teaching.html -%}
       {%- endif -%}
 
       {%- if site.data.projects.size > 0 -%}
