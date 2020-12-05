@@ -1,0 +1,8 @@
+<div class="container teaching-container">
+  <h3>{{ site.teaching_title | default: "Teaching" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.teaching_content | strip | markdownify }}
+    </div>
+  </div>
+</div>
