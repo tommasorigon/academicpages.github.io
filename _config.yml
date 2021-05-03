@@ -29,11 +29,10 @@ about_content: | # this will include new lines to allow paragraphs
 # Teaching Section
 teaching_title: Teaching @ Unimib
 teaching_content: |
-    The courses are paired with a website which includes the teaching material (slides, code, references, etc.).
 
     **Ph.D. courses**
 
-    - [**Computational Statistics 2**(https://tommasorigon.github.io/CompStat/), Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca, University of Milano-Bicocca. 
+    - [**Computational Statistics 2**](https://tommasorigon.github.io/CompStat/), Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca, University of Milano-Bicocca. 
 
     **B.Sc. courses (corsi laurea triennale)**
 
@@ -46,7 +45,7 @@ teaching_content: |
 
     **Outreach**
 
-    - [**Covid-19 dashboard** (in Italian)](https://bicocca-datalab.shinyapps.io/covid19/). Covid-19 dashboard 
+    - [**Covid-19 dashboard** (in Italian)](https://bicocca-datalab.shinyapps.io/covid19/). Covid-19 dashboard developed in collaboration with [Matteo Pelagatti](https://www.unimib.it/matteo-maria-pelagatti) for the monitoring of the pandemic in Italy and the vaccination campaign.  
 
 # Projects Section
 projects_title: Academic Positions
