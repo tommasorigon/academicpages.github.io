@@ -18,7 +18,7 @@ about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     I am an Assistant Professor in Statistics at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of [University of Milano-Bicocca](https://en.unimib.it). I currently live in Milan, Italy.
 
-    I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics (BIDSA), of the [“de Castro” Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto, and of the [MIDAS Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/).
+    I am also member of Datalab at University of Milano-Bicocca, of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics (BIDSA), of the [“de Castro” Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto, and of the [MIDAS Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/).
 
     My complete curriculum vitae is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
 
@@ -31,6 +31,10 @@ teaching_title: Teaching @ Unimib
 teaching_content: |
     The courses are paired with a website which includes the teaching material (slides, code, references, etc.).
 
+    **Ph.D. courses**
+
+    - [**Computational Statistics 2**(https://tommasorigon.github.io/CompStat/), Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca, University of Milano-Bicocca. 
+
     **B.Sc. courses (corsi laurea triennale)**
 
     - [**Statistics 1** (in Italian)](https://tommasorigon.github.io/StatI/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca. 
@@ -39,6 +43,10 @@ teaching_content: |
     **B.Sc. & M.Sc. thesis (tesi triennale e magistrale)**
 
     - [**Information page** (in Italian)](https://tommasorigon.github.io/files/tesi.html). Please read the information page if you are interested in working with me for your B.Sc. or M.Sc. thesis.
+
+    **Outreach**
+
+    - [**Covid-19 dashboard** (in Italian)](https://bicocca-datalab.shinyapps.io/covid19/). Covid-19 dashboard 
 
 # Projects Section
 projects_title: Academic Positions
